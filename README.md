@@ -18,6 +18,4 @@ laboratory mice.
 
 **Tools:** Python · PyTorch · OpenCV · Ultralytics YOLO · DeepLabCut · SLEAP · LaTeX
 
-<!-- Uncomment once the link is decided:
-[LinkedIn](https://www.linkedin.com/in/<your-handle>) · thanabat.srp@gmail.com
--->
+[LinkedIn](https://www.linkedin.com/in/thanabatsr/)
